@@ -1,6 +1,6 @@
 # Exno.10-Prompt-Engg
-# Name : Abinaya.K
-# Register no: 212222050002
+# Name : Krishna M
+# Register no:212222060123
 # Aim:
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
